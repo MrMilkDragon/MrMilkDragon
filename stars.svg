@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="64" viewBox="0 0 184 64">
+  <rect x="2" y="6" width="180" height="56" rx="17" fill="#32204d"/>
+  <rect x="2" y="2" width="180" height="56" rx="17" fill="#efe4ff" stroke="#32204d" stroke-width="2"/>
+  <circle cx="29" cy="30" r="17" fill="#cbb0fa"/>
+  <g transform="translate(17 18)" stroke="#32204d" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2.8 2.9 5.8 6.4.9-4.7 4.5 1.1 6.4L12 17.4l-5.7 3 1.1-6.4-4.7-4.5 6.4-.9Z"/></g>
+  <g font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" fill="#32204d">
+    <text x="55" y="27" font-size="16" font-weight="750">星星收藏</text>
+    <text x="56" y="43" font-size="12">已加星仓库</text>
+  </g>
+  <path d="m159 30 9 0m-4-4 4 4-4 4" stroke="#32204d" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

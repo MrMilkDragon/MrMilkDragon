@@ -3,9 +3,8 @@
   <rect x="2" y="2" width="180" height="56" rx="17" fill="#dff5ff" stroke="#32204d" stroke-width="2"/>
   <circle cx="29" cy="30" r="17" fill="#92dbf4"/>
   <g transform="translate(17 18)" stroke="#32204d" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v4m10-4v4M4 9h16M6 5h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z"/><path d="m8.5 15 2.2 2.2 4.8-4.8"/></g>
-  <g font-family="system-ui, 'PingFang SC', 'Microsoft YaHei', sans-serif" fill="#32204d">
-    <text x="55" y="27" font-size="16" font-weight="750">最近脚印</text>
-    <text x="56" y="43" font-size="12">贡献与活动</text>
+  <g font-family="system-ui, sans-serif" fill="#32204d">
+    <text x="55" y="30" dominant-baseline="central" font-size="17" font-weight="750">Activity</text>
   </g>
   <path d="m159 30 9 0m-4-4 4 4-4 4" stroke="#32204d" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
